@@ -62,7 +62,7 @@
 	url = https://github.com/PoomSmart/NoYTPremium.git
 [submodule "Tweaks/YTSpeed"]
 	path = Tweaks/YTSpeed
-	url = https://github.com/arichornlover/YTSpeed.git
+	url = https://github.com/leofinder/YTSpeed.git
 [submodule "Tweaks/MrBeastify"]
 	path = Tweaks/MrBeastify
 	url = https://github.com/arichornlover/MrBeastify.git
